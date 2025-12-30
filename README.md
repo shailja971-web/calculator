@@ -9,6 +9,6 @@ Add, subtract, multiply, divide numbers
 
 User-friendly console input
 
-Technologies:
+### Technologies:
 
 HTML,CSS AND JAVASCRIPT 
